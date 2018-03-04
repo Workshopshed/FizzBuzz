@@ -1,4 +1,6 @@
-#http://blog.boochow.com/article/453758697.html
+# From http://blog.boochow.com/article/453758697.html
+# Branched https://gist.github.com/boochow/6ffd0c939abbcc1a9c62bf6ab6b60cef#file-st7032i-py
+# Ported from ESP32 MicroPython to CircuitPython to work with AdaFruit Trinket M0
 #Place in LIB folder
 
 from micropython import const
